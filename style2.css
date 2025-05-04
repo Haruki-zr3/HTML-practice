@@ -1,0 +1,15 @@
+p{
+    color:red
+}
+ul{
+    color:aqua
+}
+table, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+h1{
+    color:maroon;
+    background-color:yellow;
+}
+  
